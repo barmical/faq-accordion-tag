@@ -19,9 +19,11 @@ question1.addEventListener('click', function(){
     if (subquestion1.style.display === "block") {
         subquestion1.style.display = "none";
         arrow1.style.transform = 'rotate(0deg)'
+        question1.style.fontWeight = '400'
     } else {
         subquestion1.style.display = "block";
         arrow1.style.transform = 'rotate(180deg)'
+        question1.style.fontWeight = '700'
   }
 })
 
@@ -29,9 +31,11 @@ arrow1.addEventListener('click', function(){
     if (subquestion1.style.display === "block") {
         subquestion1.style.display = "none";
         arrow1.style.transform = 'rotate(0deg)'
+        question1.style.fontWeight = '400'
     } else {
         subquestion1.style.display = "block";
         arrow1.style.transform = 'rotate(180deg)'
+        question1.style.fontWeight = '700'
   }
 })
 
@@ -39,9 +43,11 @@ question2.addEventListener('click', function(){
     if (subquestion2.style.display === "block") {
         subquestion2.style.display = "none";
         arrow2.style.transform = 'rotate(0deg)'
+        question2.style.fontWeight = '400'
     } else {
         subquestion2.style.display = "block";
         arrow2.style.transform = 'rotate(180deg)'
+        question2.style.fontWeight = '700'
   }
 })
 
@@ -49,9 +55,11 @@ arrow2.addEventListener('click', function(){
     if (subquestion2.style.display === "block") {
         subquestion2.style.display = "none";
         arrow2.style.transform = 'rotate(0deg)'
+        question2.style.fontWeight = '400'
     } else {
         subquestion2.style.display = "block";
         arrow2.style.transform = 'rotate(180deg)'
+        question2.style.fontWeight = '700'
   }
 })
 
@@ -59,9 +67,11 @@ question3.addEventListener('click', function(){
     if (subquestion3.style.display === "block") {
         subquestion3.style.display = "none";
         arrow3.style.transform = 'rotate(0deg)'
+        question3.style.fontWeight = '400'
     } else {
         subquestion3.style.display = "block";
         arrow3.style.transform = 'rotate(180deg)'
+        question3.style.fontWeight = '700'
   }
 })
 
@@ -69,9 +79,11 @@ arrow3.addEventListener('click', function(){
     if (subquestion3.style.display === "block") {
         subquestion3.style.display = "none";
         arrow3.style.transform = 'rotate(0deg)'
+        question3.style.fontWeight = '400'
     } else {
         subquestion3.style.display = "block";
         arrow3.style.transform = 'rotate(180deg)'
+        question3.style.fontWeight = '700'
   }
 })
 
@@ -79,9 +91,11 @@ question4.addEventListener('click', function(){
     if (subquestion4.style.display === "block") {
         subquestion4.style.display = "none";
         arrow4.style.transform = 'rotate(0deg)'
+        question4.style.fontWeight = '400'
     } else {
         subquestion4.style.display = "block";
         arrow4.style.transform = 'rotate(180deg)'
+        question4.style.fontWeight = '700'
   }
 })
 
@@ -89,9 +103,11 @@ arrow4.addEventListener('click', function(){
     if (subquestion4.style.display === "block") {
         subquestion4.style.display = "none";
         arrow4.style.transform = 'rotate(0deg)'
+        question4.style.fontWeight = '400'
     } else {
         subquestion4.style.display = "block";
         arrow4.style.transform = 'rotate(180deg)'
+        question4.style.fontWeight = '700'
   }
 })
 
@@ -99,9 +115,11 @@ question5.addEventListener('click', function(){
     if (subquestion5.style.display === "block") {
         subquestion5.style.display = "none";
         arrow5.style.transform = 'rotate(0deg)'
+        question5.style.fontWeight = '400'
     } else {
         subquestion5.style.display = "block";
         arrow5.style.transform = 'rotate(180deg)'
+        question5.style.fontWeight = '700'
   }
 })
 
@@ -109,9 +127,11 @@ arrow5.addEventListener('click', function(){
     if (subquestion5.style.display === "block") {
         subquestion5.style.display = "none";
         arrow5.style.transform = 'rotate(0deg)'
+        question5.style.fontWeight = '400'
     } else {
         subquestion5.style.display = "block";
         arrow5.style.transform = 'rotate(180deg)'
+        question5.style.fontWeight = '700'
   }
 })
 

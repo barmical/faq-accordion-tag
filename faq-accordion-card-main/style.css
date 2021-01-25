@@ -26,7 +26,7 @@ body {
 }
 
 .container {
-  background-color: aliceblue;
+  background-color: rgb(255, 255, 255);
   border-radius: 20px;
   display: grid;
   grid-template-areas: "foto faq";
@@ -92,11 +92,6 @@ li .first:hover {
   cursor: pointer;
 }
 
-li .first:active {
-  font-weight: 700;
-  color: hsl(238, 29%, 16%);
-}
-
 li .second {
   font-weight: 300;
   color: hsl(240, 6%, 50%);
@@ -114,26 +109,28 @@ li .second {
 li {
   color: hsl(237, 12%, 33%);
   width: 100%;
+  border-bottom: 1px solid rgba(194, 194, 194, 0.808);
+  padding: 4% 0px;
 }
 
 .arrow-1 {
-  margin-left: 200px;
+  margin-left: 230px;
   cursor: pointer;
 }
 .arrow-2 {
-  margin-left: 200px;
+  margin-left: 230px;
   cursor: pointer;
 }
 .arrow-3 {
-  margin-left: 252px;
+  margin-left: 282px;
   cursor: pointer;
 }
 .arrow-4 {
-  margin-left: 252px;
+  margin-left: 282px;
   cursor: pointer;
 }
 .arrow-5 {
-  margin-left: 220px;
+  margin-left: 249px;
   cursor: pointer;
 }
 
